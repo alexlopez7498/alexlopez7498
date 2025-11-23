@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Lopez</h1>
-🌱 I’m currently learning Golang, CI/CD, Azure
+🌱 I’m currently learning Golang, Machine learning, Azure
 
 📫 How to reach me **alexlopez7498@gmail.com**
 
